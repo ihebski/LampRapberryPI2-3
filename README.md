@@ -8,7 +8,7 @@ LAMP stack is a group of open source software used to get web servers up and run
 
 # About this script
 This script helps you to install all the required tools of LAMP(Linux Apache Mysql Php) on ur PI .Its automatically setup all the settings ,in addition ,by default its install apache2-server,Mysql-server,PHP5 and Phpmyadmin .
-No time westing ..
+
 # Run the code
 In your RPI ,open up the terminal [ctr+alt+t] then follow this steps
 ```
