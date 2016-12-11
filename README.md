@@ -1,5 +1,5 @@
 # Lamp for Raspberry PI 2/3
-![LAMP](https://pimylifeup.com/wp-content/uploads/2015/03/raspberry-pi-web-server.jpg)
+![LAMP](http://i.imgur.com/tWdEgiE.png)
 
 # About LAMP
 
