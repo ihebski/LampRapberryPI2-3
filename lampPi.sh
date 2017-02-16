@@ -19,8 +19,7 @@ sudo chmod -R 770 /var/www/html/
 sudo aptitude install php5
 
 #Change the default index.html to index.php :to test the server
-sudo rm /var/www/html/index.html
-echo "<?php phpinfo(); ?>" > /var/www/html/index.php
+#echo "<?php phpinfo(); ?>" > /var/www/html/index.php
 
 #MysqlServer ,You can user root as password for the default login,then change it later
 sudo aptitude install mysql-server php5-mysql
